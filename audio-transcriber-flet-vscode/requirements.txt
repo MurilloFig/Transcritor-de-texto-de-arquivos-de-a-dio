@@ -1,0 +1,4 @@
+flet==0.28.3
+faster-whisper==1.0.3
+ctranslate2
+av
