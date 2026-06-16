@@ -1,0 +1,1 @@
+# Transcritor-de-texto-de-arquivos-de-a-dio
