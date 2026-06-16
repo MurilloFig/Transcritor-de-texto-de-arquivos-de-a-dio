@@ -78,19 +78,3 @@ Opções comuns:
 ## Observação
 
 Na primeira execução, o modelo será baixado automaticamente. Isso pode demorar dependendo da internet e do tamanho do modelo escolhido.
-
-## Estrutura
-
-```text
-audio-transcriber-flet-vscode/
-├── src/
-│   ├── app.py
-│   └── transcriber.py
-├── uploads/
-├── transcriptions/
-├── requirements.txt
-├── README.md
-└── .vscode/
-    ├── launch.json
-    └── settings.json
-```
